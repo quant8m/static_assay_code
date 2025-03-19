@@ -199,3 +199,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+#Example of command: python3 main.py /home/xpenetrator/Documents/develop/my_prog > results.json
